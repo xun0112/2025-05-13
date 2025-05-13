@@ -39,4 +39,4 @@ npm start
 
 此範本已配置 [Tailwind CSS](https://tailwindcss.com/)，以提供簡單的預設起始體驗。您可以使用任何您偏好的 CSS 框架。查看 [Vite CSS 文件](https://vitejs.dev/guide/features.html#css) 以獲取更多資訊。
 
-## 第2天：導航欄與路由基礎 2025/05/13git init
+## 第2天：導航欄與路由基礎 2025/05/13
